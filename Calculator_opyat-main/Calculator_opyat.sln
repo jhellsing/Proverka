@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator_opyat", "Calculator_opyat\Calculator_opyat.csproj", "{11539045-B5D6-4FA1-AE2F-043335A44A96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator_opyat.tests", "Calculator_opyat.tests\Calculator_opyat.tests.csproj", "{5544A215-D692-476D-A83E-4F2D9FA23018}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11539045-B5D6-4FA1-AE2F-043335A44A96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11539045-B5D6-4FA1-AE2F-043335A44A96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11539045-B5D6-4FA1-AE2F-043335A44A96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11539045-B5D6-4FA1-AE2F-043335A44A96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5544A215-D692-476D-A83E-4F2D9FA23018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5544A215-D692-476D-A83E-4F2D9FA23018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5544A215-D692-476D-A83E-4F2D9FA23018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5544A215-D692-476D-A83E-4F2D9FA23018}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79A6787D-5435-4279-AF90-2D14393DE7E3}
+	EndGlobalSection
+EndGlobal
